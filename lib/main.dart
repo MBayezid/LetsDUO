@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Let\'sDU',
+      title: 'Let\'sDUO',
       debugShowCheckedModeBanner: false,
       initialRoute: Routes.home,
       routes: {
