@@ -12,7 +12,7 @@ class Header extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
           const Text(
-            'Let\'sDU',
+            'Let\'sDUO',
             style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
           Row(

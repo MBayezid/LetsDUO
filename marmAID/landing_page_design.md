@@ -1,15 +1,15 @@
-# Let'sDU Landing Page Design
+# Let'sDUO Landing Page Design
 
 ## 1. Header
 
-- **Logo/Name:** Let'sDU (top left)
+- **Logo/Name:** Let'sDUO (top left)
 - **Navigation:** Features, Pricing, Sign In (top right)
 - **CTA Button:** Sign Up Free
 
 ## 2. Hero Section
 
 - **Headline:** "Simplify Your Day. Accomplish More."
-- **Sub-headline:** "Let'sDU is a simple, intuitive task manager that helps you organize your life, track progress, and get things done."
+- **Sub-headline:** "Let'sDUO is a simple, intuitive task manager that helps you organize your life, track progress, and get things done."
 - **Visual:** App interface demonstration
 - **Primary CTA:** "Start Your Free Trial"
 - **Social Proof:** "Trusted by thousands of users worldwide"
@@ -39,7 +39,7 @@
 ## 5. Final CTA Section
 
 - **Headline:** "Ready to be more productive?"
-- **Sub-headline:** "Join thousands of others who are simplifying their lives with Let'sDU"
+- **Sub-headline:** "Join thousands of others who are simplifying their lives with Let'sDUO"
 - **CTA Button:** "Start Your Free Trial"
 
 ## 6. Footer

@@ -1,10 +1,10 @@
-# LetsDUO: AI-Powered Task Management
+# Let'sDUO: AI-Powered Task Management
 
-LetsDUO is an open-source, cross-platform task management application built with Flutter. It's designed to help you not just manage your tasks, but also to understand and improve your planning and productivity with the power of AI.
+Let'sDUO is an open-source, cross-platform task management application built with Flutter. It's designed to help you not just manage your tasks, but also to understand and improve your planning and productivity with the power of AI.
 
 ## ✨ Features
 
-* **Cross-Platform:** Use LetsDUO on your phone, tablet, or desktop.
+* **Cross-Platform:** Use Let'sDUO on your phone, tablet, or desktop.
 * **Core Task Management:** All the essential features of a modern to-do app.
 * **AI-Powered Insights:** Get smart suggestions and analysis to level up your planning game.
 

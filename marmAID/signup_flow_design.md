@@ -1,15 +1,15 @@
-# Let'sDU Sign-Up and Onboarding Flow
+# Let'sDUO Sign-Up and Onboarding Flow
 
 ## Sign-Up Page
 
 ### Header
 
-- Let'sDU logo
+- Let'sDUO logo
 - Homepage link
 
 ### Main Content
 
-- **Title:** "Create Your Free Let'sDU Account"
+- **Title:** "Create Your Free Let'sDUO Account"
 
 ### Form Fields
 
@@ -30,7 +30,7 @@
 
 ### Step 1: Welcome Screen
 
-- Personalized welcome message: "Welcome to Let'sDU, [User's Name]!"
+- Personalized welcome message: "Welcome to Let'sDUO, [User's Name]!"
 - Optional tour/tutorial start
 
 ### Step 2: Quick Tour (3 steps)
