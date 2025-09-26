@@ -16,7 +16,7 @@ Let'sDUO is an open-source, cross-platform task management application built wit
 
 We welcome contributions from the community! Whether you're a developer, designer, or just have a great idea, we'd love for you to get involved. Please check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
-##  roadmap
+## Roadmap
 
 Our vision is to build a truly intelligent and intuitive task management experience. Our future plans include:
 

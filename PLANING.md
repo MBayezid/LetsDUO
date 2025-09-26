@@ -1,4 +1,4 @@
-PLANING - Finalize PRD.md
+# PLANING - Finalize PRD.md
 
 Purpose
 
