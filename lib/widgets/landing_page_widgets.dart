@@ -60,6 +60,11 @@ class HeroSection extends StatelessWidget {
             ),
             child: const Text('Start Your Free Trial'),
           ),
+          const SizedBox(height: 12),
+          OutlinedButton(
+            onPressed: () => Navigator.pushNamed(context, Routes.browse),
+            child: const Text('Explore as Guest'),
+          ),
           const SizedBox(height: 16),
           const Text(
             'Trusted by thousands of users worldwide',

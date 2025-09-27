@@ -4,6 +4,7 @@ import 'routes.dart';
 import 'screens/landing_page.dart';
 import 'screens/signup_page.dart';
 import 'screens/welcome_page.dart';
+import 'screens/browse_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -22,6 +23,7 @@ class MyApp extends StatelessWidget {
         Routes.home: (context) => const LandingPage(),
         Routes.signup: (context) => const SignUpPage(),
         Routes.welcome: (context) => const WelcomePage(),
+        Routes.browse: (context) => const BrowsePage(),
       },
       theme: AppTheme.themeData,
     );
